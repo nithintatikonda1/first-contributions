@@ -186,6 +186,7 @@
 - [Uras Varolgunes]
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
+- [Nithin Tatikonda] (https://github.com/nithintatikonda1)
 - [Noopur Sharma@DevsocPI]
 - [Mohamed Abidar](https://github.com/abidarm)
 - [Antonio Narra](https://github.com/AntonioNarra)
